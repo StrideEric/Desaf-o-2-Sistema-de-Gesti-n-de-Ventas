@@ -1,0 +1,174 @@
+[
+    {
+        "fecha": "2024-08-06 16:59:31.960938",
+        "cliente": "Carlos Ruiz",
+        "productos": [
+            "Producto4"
+        ],
+        "direccion_envio": "Avenida Siempre Viva 742"
+    },
+    {
+        "fecha": "2024-08-05 15:45:13.821880",
+        "cliente": "Juan Perez",
+        "productos": [
+            "Producto1",
+            "Producto2"
+        ],
+        "direccion_envio": "Calle Falsa 123"
+    },
+    {
+        "fecha": "2024-08-05 15:45:13.824448",
+        "cliente": "Maria Lopez",
+        "productos": [
+            "Producto3"
+        ],
+        "tienda": "Tienda Central"
+    },
+    {
+        "fecha": "2024-08-05 15:45:41.767636",
+        "cliente": "Juan Perez",
+        "productos": [
+            "Producto1",
+            "Producto2"
+        ],
+        "direccion_envio": "Calle Falsa 123"
+    },
+    {
+        "fecha": "2024-08-05 15:45:41.769015",
+        "cliente": "Maria Lopez",
+        "productos": [
+            "Producto3"
+        ],
+        "tienda": "Tienda Central"
+    },
+    {
+        "fecha": "2024-08-05 15:46:22.111791",
+        "cliente": "Juan Perez",
+        "productos": [
+            "Producto1",
+            "Producto2"
+        ],
+        "direccion_envio": "Calle Falsa 123"
+    },
+    {
+        "fecha": "2024-08-05 15:46:50.284559",
+        "cliente": "Juan Perez",
+        "productos": [
+            "Producto1",
+            "Producto2"
+        ],
+        "direccion_envio": "Calle Falsa 123"
+    },
+    {
+        "fecha": "2024-08-05 15:46:50.288056",
+        "cliente": "Maria Lopez",
+        "productos": [
+            "Producto3"
+        ],
+        "tienda": "Tienda Central"
+    },
+    {
+        "fecha": "2024-08-05 15:50:57.405978",
+        "cliente": "Maria Lopez",
+        "productos": [
+            "Producto3"
+        ],
+        "tienda": "Tienda Central"
+    },
+    {
+        "fecha": "2024-08-06 16:49:33.098860",
+        "cliente": "Juan Perez",
+        "productos": [
+            "Producto1",
+            "Producto2"
+        ],
+        "direccion_envio": "Calle Falsa 123"
+    },
+    {
+        "fecha": "2024-08-06 16:49:58.696604",
+        "cliente": "Juan Perez",
+        "productos": [
+            "Producto1",
+            "Producto2"
+        ],
+        "direccion_envio": "Calle Falsa 123"
+    },
+    {
+        "fecha": "2024-08-06 16:49:58.699981",
+        "cliente": "Maria Lopez",
+        "productos": [
+            "Producto3"
+        ],
+        "tienda": "Tienda Central"
+    },
+    {
+        "fecha": "2024-08-06 16:54:09.401538",
+        "cliente": "Juan Perez",
+        "productos": [
+            "Producto1",
+            "Producto2"
+        ],
+        "direccion_envio": "Calle Falsa 123"
+    },
+    {
+        "fecha": "2024-08-06 16:54:09.403544",
+        "cliente": "Maria Lopez",
+        "productos": [
+            "Producto3"
+        ],
+        "tienda": "Tienda Central"
+    },
+    {
+        "fecha": "2024-08-06 16:57:14.384203",
+        "cliente": "Juan Perez",
+        "productos": [
+            "Producto1",
+            "Producto2"
+        ],
+        "direccion_envio": "Calle Falsa 123"
+    },
+    {
+        "fecha": "2024-08-06 16:57:14.385662",
+        "cliente": "Maria Lopez",
+        "productos": [
+            "Producto3"
+        ],
+        "tienda": "Tienda Central"
+    },
+    {
+        "fecha": "2024-08-06 16:57:44.662763",
+        "cliente": "Juan Perez",
+        "productos": [
+            "canasto",
+            "sandalias",
+            "escoba",
+            "rueda"
+        ],
+        "direccion_envio": "calle falsa 545"
+    },
+    {
+        "fecha": "2024-08-06 16:59:31.943978",
+        "cliente": "Juan Perez",
+        "productos": [
+            "Producto1",
+            "Producto2"
+        ],
+        "direccion_envio": "Calle Falsa 123"
+    },
+    {
+        "fecha": "2024-08-06 16:59:31.946977",
+        "cliente": "Maria Lopez",
+        "productos": [
+            "Producto3"
+        ],
+        "tienda": "Tienda Central"
+    },
+    {
+        "fecha": "2024-08-06 16:59:43.673606",
+        "cliente": "Juan",
+        "productos": [
+            "canasto"
+        ],
+        "direccion_envio": "adsjiasd 2312"
+    }
+]
